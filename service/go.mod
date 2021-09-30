@@ -1,4 +1,4 @@
-module github.com/chenliu1993/go-grpc/service
+module go-grpc/service
 
 go 1.16
 
