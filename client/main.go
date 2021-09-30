@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	pb "go-grpc/client/ecommerce/product_info.pb.go"
+	pb "go-grpc/client/ecommerce"
 
 	"google.golang.org/grpc"
 )

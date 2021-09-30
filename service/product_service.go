@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	pb "github.com/chenliu1993/go-grpc/service/ecommerce/product_info.pb.go"
+	pb "go-grpc/service/ecommerce"
 
 	"github.com/gofrs/uuid"
 
